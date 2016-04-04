@@ -1,0 +1,25 @@
+{
+  "name": "mission-stack",
+  "version": "1.0.0",
+  "description": "mission stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissionJs/mission-stack.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "angular2",
+    "expressjs"
+  ],
+  "author": "Natarajan Ganapathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MissionJs/mission-stack/issues"
+  },
+  "homepage": "https://github.com/MissionJs/mission-stack#readme"
+}
